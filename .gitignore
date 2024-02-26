@@ -5,3 +5,7 @@
 *.png
 *.pkl
 *.jpg
+*.aux
+*.bbl
+*.log
+*.out
