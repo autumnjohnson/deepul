@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1709794044 "/home/autumn/Documents/deepul/homeworks/hw3/hw3_latex/main.tex" "main.pdf" "main" 1709794044
+["pdflatex"] 1709796118 "/home/autumn/Documents/deepul/homeworks/hw3/hw3_latex/main.tex" "main.pdf" "main" 1709796118
   "/etc/texmf/web2c/texmf.cnf" 1700450198 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/autumn/Documents/deepul/homeworks/hw3/hw3_latex/main.tex" 1708832425 8036 eda6160bdd790cede44045d8ede2d6c0 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -89,17 +89,17 @@
   "figures/q1b_losses.png" 1709792569 36134 2ac3e4cd19e0195e2b44d7de795928ec ""
   "figures/q2_losses.png" 1709444038 20630 854fa51324a917ae0ff607f98bbbedd5 ""
   "figures/q2_samples.png" 1709444038 292264 ba896a2178223f12a96deead9d882e1e ""
-  "figures/q3a_gan_losses.png" 1709792696 26951 118ffbb49ad0f4b2907e8d538ca459d7 ""
+  "figures/q3a_gan_losses.png" 1709795499 21665 44fb9a47db9f6a19caabb40686694410 ""
   "figures/q3a_l2_losses.png" 1708832425 21718 6ef2292c5ab16bb08e3944f949d28b6b ""
   "figures/q3a_lpips_losses.png" 1709792696 14274 20fea40af89c583935bbe4140dadfcb7 ""
   "figures/q3a_reconstructions.png" 1708832425 215372 b4b5691f9ed81c68ef7b31e536b162bc ""
-  "figures/q3b_gan_losses.png" 1709793895 24853 567d029d1ad97d6900135f93d79c2ab3 ""
+  "figures/q3b_gan_losses.png" 1709794754 23218 defe7a911a2ff1db6f4295064051eca4 ""
   "figures/q3b_l2_losses.png" 1709793896 14323 6d128188b01ccbfb7877051256595ea1 ""
   "figures/q3b_lpips_losses.png" 1709793896 14290 2c60f78dc38e9ff4c43c79adb48e268d ""
-  "figures/q3b_reconstructions.png" 1709793896 482734 599b5b825025cc7a227661c268f57750 ""
+  "figures/q3b_reconstructions.png" 1709794755 502657 dfbf3890cd04b13920ea6ac17938a159 ""
   "figures/qbonus_colored_mnist.png" 1709528582 119780 761219af2b4054813a9c226f6eee0712 ""
   "figures/qbonus_mnist.png" 1709528556 78446 07651e461dc6db2a2707839afa0396dc ""
-  "main.aux" 1709794044 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.aux" 1709796118 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "main.out" 0 -1 0 "pdflatex"
   "main.tex" 1708832425 8036 eda6160bdd790cede44045d8ede2d6c0 ""
   (generated)
