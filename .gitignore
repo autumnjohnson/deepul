@@ -8,3 +8,9 @@
 .vscode/
 notes/
 data/
+*.aux
+*.fls
+*.out
+*.log
+*.fdb_latexmk
+*.synctex.gz
