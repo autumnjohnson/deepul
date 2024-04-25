@@ -14,3 +14,4 @@ data/
 *.log
 *.fdb_latexmk
 *.synctex.gz
+deepul/
