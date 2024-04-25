@@ -6,6 +6,12 @@
 *.pkl
 *.jpg
 .vscode/
-deepul/
 notes/
 data/
+*.aux
+*.fls
+*.out
+*.log
+*.fdb_latexmk
+*.synctex.gz
+deepul/
